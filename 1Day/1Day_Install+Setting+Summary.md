@@ -1,8 +1,8 @@
 목차
 =============
-* [JDBC](#LocalStorage)<br>
-* [기본 세팅](#FileAPI) <br>
-* [개요](#BootStrap) <br>
+* [JDBC](#JDBC)<br>
+* [기본 세팅](#기본 세팅) <br>
+* [개요](#개요) <br>
 
 <br>
 
