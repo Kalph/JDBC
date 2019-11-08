@@ -558,4 +558,28 @@ public class TestView {
 
 }
 ```
+
 <br>
+<hr>
+<br>
+
+## driver.properties
+
+```
+driver=oracle.jdbc.driver.OracleDriver
+url=jdbc:oracle:thin:@127.0.0.1:1521:xe
+user=test
+password=test
+```
+
+<br>
+<hr>
+<br>
+
+## query.properties
+
+```
+insertTest=insert into test values (?, ?, ?, ?, sysdate)
+selectAll=select * from test
+selectName=select * from test where name like '%'||?||'%'
+```
