@@ -65,7 +65,7 @@ CREATE USER test IDENTIFIED BY test;
 GRANT RESOURCE, CONNECT TO test;
 ```
 
-<br
+<br>
 
 * test
 
